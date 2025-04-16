@@ -17,3 +17,5 @@ This is a simple starter project with:
 - Responsive design
 - Clean, organized code
 - Example of DOM manipulation
+
+Deployed web:- https://dilnoor19.github.io/basic/
